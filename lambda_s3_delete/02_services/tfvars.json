@@ -1,0 +1,8 @@
+{
+    "bucket_name": "success-acadamy-temp",    
+    "profile": "default",
+    "region": "us-east-1",
+    "target_email": "ADD_TARGET_EMAIL",
+    "ses_domain": "ADD_DOMAIN",
+    "hosted_zone_id": "ADD_ZONE_ID"
+  }

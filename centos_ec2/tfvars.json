@@ -1,0 +1,11 @@
+{    
+    "profile": "default",
+    "region": "us-east-1",
+    "availability_zone": "us-east-1a",
+    "pem_key": "aws-ec2",
+    "instance_type": "t2.micro",
+    "name_tag": "Amnz Linux VM",
+    "my_public_ip": "67.245.235.165/32",
+    "subnet_id": "subnet-08414119f5411b681",
+    "vpc_id": "vpc-0903a6a590071cde4"
+  }

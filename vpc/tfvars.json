@@ -1,0 +1,9 @@
+{    
+    "profile": "default",
+    "region": "us-east-1",
+    "availability_zone": "us-east-1a",
+    "cidr_subnet": "192.168.1.0/24",
+    "cidr_vpc": "192.168.0.0/16",
+    "environment_tag": "PROD",
+    "name_tag": "Production VPC"
+  }
