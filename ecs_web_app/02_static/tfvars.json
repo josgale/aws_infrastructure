@@ -1,0 +1,14 @@
+{
+  "profile": "uf",
+  "aws_region": "us-east-1",
+  "secret_name": "CombineSecret",
+  "certificate_domain": "upwardfarms.io",
+  "certificate_sans": [
+    "*.upwardfarms.io",
+    "*.combine.upwardfarms.io",
+    "*.staging.upwardfarms.io",
+    "*.staging.combine.upwardfarms.io"
+  ],
+  "certificate_state": "USE",
+  "project_name": "NAME"
+}

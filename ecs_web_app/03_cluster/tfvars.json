@@ -1,0 +1,28 @@
+{
+  "aws_region": "us-east-1",
+  "profile": "CHANGE_ME",
+  "env_name": "CHANGE_ME",
+  "certificate_domain": "CHANGE_ME",
+
+  "app_vpc_cidr_block": "172.28.0.0/22",
+  "app_public_subnets": ["172.28.0.0/26", "172.28.0.64/26"],
+  "availability_zones": ["a", "b"],
+
+  "ingress_sources": ["0.0.0.0/0"],
+  "lb_ingress_sources": ["0.0.0.0/0"],
+
+  "secret_name": "CHANGE_ME-Secret",
+
+  "ec2_instance_type": "t2.small",
+  "instance_subnet": "public",
+  "instance_key_pair_name": "CHANGE_ME",
+
+  "ecr_repository_name_backend": "CHANGE-backend",
+  "ecr_repository_name_frontend": "CHANGE-frontend",
+
+  "ecs_cluster_name": "CHANGE_ME",
+  "ecs_ami_name": "amzn2-ami-ecs-hvm-2.0.20220921-x86_64-ebs",
+
+  "backend_tag": "latest",
+  "frontend_tag": "latest"
+}

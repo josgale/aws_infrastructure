@@ -1,0 +1,5 @@
+{
+  "tfstate_bucket_name": "PROJECT-terraform-state",
+  "tfstate_lock_dynamodb_name": "PROJECT_terraform_lock",
+  "profile": "default"
+}
