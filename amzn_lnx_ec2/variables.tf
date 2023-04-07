@@ -7,3 +7,4 @@ variable "name_tag" {}
 variable "my_public_ip" {}
 variable "subnet_id" {}
 variable "vpc_id" {}
+variable "public_ip" {}
